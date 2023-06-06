@@ -3,8 +3,7 @@
 I'm Peter from York, UK.
 
 - 😄 Pronouns: he/him/his
-- 🔭 I’m currently working at [Netsells](https://github.com/netsells) as Lead Mobile Engineer. We make Flutter apps and Vue websites for customers across industry sectors
-- 🌱 I’m currently learning React Native
+- 🔭 I’m currently working at Qured, building their in-house Flutter engineering team
 - 📫 How to reach me:
   - My [blog](https://ptrbrynt.com/)
   - [Twitter](https://twitter.com/ptrbrynt/)
